@@ -1,0 +1,15 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Circular Std';
+    src: url('https://poseyco.com/assets/fonts/CircularStd-Book.eot');
+    src: url('https://poseyco.com/assets/fonts/CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('.https://poseyco.com/assets/fonts/CircularStd-Book.woff') format('woff'),
+        url('https://poseyco.com/assets/fonts/CircularStd-Book.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
